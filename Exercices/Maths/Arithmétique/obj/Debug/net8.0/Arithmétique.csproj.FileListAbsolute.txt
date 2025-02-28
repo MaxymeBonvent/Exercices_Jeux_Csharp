@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\bin\Debug\net8.0\Arithmétique.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\bin\Debug\net8.0\Arithmétique.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\bin\Debug\net8.0\Arithmétique.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\bin\Debug\net8.0\Arithmétique.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\bin\Debug\net8.0\Arithmétique.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\refint\Arithmétique.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\Arithmétique.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Arithmétique\obj\Debug\net8.0\ref\Arithmétique.dll

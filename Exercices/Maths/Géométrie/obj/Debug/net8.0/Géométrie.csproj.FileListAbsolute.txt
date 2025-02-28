@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\bin\Debug\net8.0\Géométrie.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\bin\Debug\net8.0\Géométrie.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\bin\Debug\net8.0\Géométrie.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\bin\Debug\net8.0\Géométrie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\bin\Debug\net8.0\Géométrie.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\refint\Géométrie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\Géométrie.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Géométrie\obj\Debug\net8.0\ref\Géométrie.dll

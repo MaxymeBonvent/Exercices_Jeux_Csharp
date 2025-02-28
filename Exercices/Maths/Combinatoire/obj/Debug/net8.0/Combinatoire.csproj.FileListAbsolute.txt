@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\bin\Debug\net8.0\Combinatoire.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\bin\Debug\net8.0\Combinatoire.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\bin\Debug\net8.0\Combinatoire.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\bin\Debug\net8.0\Combinatoire.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\bin\Debug\net8.0\Combinatoire.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\refint\Combinatoire.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\Combinatoire.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Combinatoire\obj\Debug\net8.0\ref\Combinatoire.dll

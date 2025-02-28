@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\bin\Debug\net8.0\Jeux.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\bin\Debug\net8.0\Jeux.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\bin\Debug\net8.0\Jeux.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\bin\Debug\net8.0\Jeux.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\bin\Debug\net8.0\Jeux.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\refint\Jeux.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\Jeux.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Jeux\obj\Debug\net8.0\ref\Jeux.dll

@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\bin\Debug\net8.0\Conversions.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\bin\Debug\net8.0\Conversions.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\bin\Debug\net8.0\Conversions.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\bin\Debug\net8.0\Conversions.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\bin\Debug\net8.0\Conversions.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\refint\Conversions.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\Conversions.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Conversions\obj\Debug\net8.0\ref\Conversions.dll

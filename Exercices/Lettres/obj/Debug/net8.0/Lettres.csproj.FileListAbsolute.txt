@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\bin\Debug\net8.0\Lettres.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\bin\Debug\net8.0\Lettres.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\bin\Debug\net8.0\Lettres.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\bin\Debug\net8.0\Lettres.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\bin\Debug\net8.0\Lettres.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\refint\Lettres.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\Lettres.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Lettres\obj\Debug\net8.0\ref\Lettres.dll

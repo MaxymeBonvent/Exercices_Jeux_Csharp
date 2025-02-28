@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\bin\Debug\net8.0\Saisie.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\bin\Debug\net8.0\Saisie.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\bin\Debug\net8.0\Saisie.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\bin\Debug\net8.0\Saisie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\bin\Debug\net8.0\Saisie.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\refint\Saisie.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\Saisie.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Saisie\obj\Debug\net8.0\ref\Saisie.dll

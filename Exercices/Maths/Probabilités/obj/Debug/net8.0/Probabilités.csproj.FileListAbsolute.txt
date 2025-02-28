@@ -1,0 +1,14 @@
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\bin\Debug\net8.0\Probabilités.exe
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\bin\Debug\net8.0\Probabilités.deps.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\bin\Debug\net8.0\Probabilités.runtimeconfig.json
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\bin\Debug\net8.0\Probabilités.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\bin\Debug\net8.0\Probabilités.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.AssemblyInfoInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.AssemblyInfo.cs
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.csproj.CoreCompileInputs.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\refint\Probabilités.dll
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.pdb
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\Probabilités.genruntimeconfig.cache
+C:\Users\maxym\Documents\VisualStudioCode\C#\Exercices\Maths\Probabilités\obj\Debug\net8.0\ref\Probabilités.dll
